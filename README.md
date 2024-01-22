@@ -1,1 +1,2 @@
-RIP-native app on React-native
+#RIP-native
+Репозиторий нативного приложения
